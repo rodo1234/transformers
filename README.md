@@ -1,1 +1,4 @@
-# transformers
+# Trading Strategy with Transformers
+
+## Overview:
+Este proyecto presenta una estrategia de inversión utilizando un dataset del movimiento de la acción de Apple a intervalos de 5 minutos. Además, se emplearon indicadores de análisis técnico, como el Relative Strength Index (RSI), para predecir señales que indiquen acciones de compra, venta o mantenerse en espera. Se realizó un backtesting del modelo Transformer utilizando datos de prueba con la misma información disponible. Además, se llevó a cabo una comparación entre la estrategia propuesta y una estrategia de mantener una posición larga en el mismo periodo de tiempo, con el objetivo de evaluar la efectividad de la estrategia propuesta en comparación con una estrategia pasiva.
